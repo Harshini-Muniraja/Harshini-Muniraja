@@ -1,4 +1,4 @@
-# HarshiniMuniraja
+# Harshini-Muniraja
 Personal GitHub profile showcasing my technical skills, projects, and journey as an aspiring cybersecurity professional.
 # Hi, I'm Harshini Muniraja
 
