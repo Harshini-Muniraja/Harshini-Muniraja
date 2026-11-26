@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Cybersecurity Developer Neon Banner.png" width="100%" alt="Harshini Muniraja - Cybersecurity Banner">
+</p>
+
 # Harshini-Muniraja
 Personal GitHub profile showcasing my technical skills, projects, and journey as an aspiring cybersecurity professional.
 # Hi, I'm Harshini Muniraja
